@@ -1,10 +1,10 @@
 {
   "branch": "prod",
-  "commit": "a9aed30d5c8a02342cfd1f75191679d3968b5c54",
-  "shortCommit": "a9aed30",
-  "builtAt": "2026-08-29T23:59:16Z",
-  "sizeBytes": 15457128,
-  "sha1": "dd34139786c9c417913c325d8702ec84a25e811d",
-  "zipUrl": "https://amethyst-realms.github.io/resourcepack-build/latest/Rove-Pack.zip",
-  "sha1Url": "https://amethyst-realms.github.io/resourcepack-build/latest/Rove-Pack.sha1"
+  "commit": "5940d7722166c9400ed9eb0f674fb53ce1ea5e25",
+  "shortCommit": "5940d77",
+  "builtAt": "2026-09-01T23:48:20Z",
+  "sizeBytes": 15604709,
+  "sha1": "a3e9e950987b679d085eeb057f446c1ffbe2067d",
+  "zipUrl": "https://raw.githubusercontent.com/Amethyst-Realms/resourcepack-build/d1994f9f6061a38162da0601b6e1105fa97ad0ec/latest/Rove-Pack.zip",
+  "sha1Url": "https://raw.githubusercontent.com/Amethyst-Realms/resourcepack-build/d1994f9f6061a38162da0601b6e1105fa97ad0ec/latest/Rove-Pack.sha1"
 }
